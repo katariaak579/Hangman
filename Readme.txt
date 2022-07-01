@@ -1,3 +1,5 @@
+##HangMan
+
 There are 3 files in the Repository depicting the main code in Hangman.pl and the collection of words in words.txt
 If you want to add a new word in the database containing all the words add it in the sample array in Hangman.pl
 
